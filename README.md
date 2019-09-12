@@ -1,1 +1,1 @@
-# USACO-2016
+# USACO-Practice
